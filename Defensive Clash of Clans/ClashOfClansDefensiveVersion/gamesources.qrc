@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>bullet.png</file>
+        <file>cannon.png</file>
+        <file>castle.jpeg</file>
+        <file>download (1).jpeg</file>
+        <file>download.png</file>
+        <file>Mbullet.png</file>
+        <file>result (1).png</file>
+        <file>result.png</file>
+        <file>result (4) (1).png</file>
+        <file>troopmotion_1 (1).png</file>
+        <file>troopmotion_2 (1).png</file>
+        <file>powerup1.png</file>
+    </qresource>
+</RCC>

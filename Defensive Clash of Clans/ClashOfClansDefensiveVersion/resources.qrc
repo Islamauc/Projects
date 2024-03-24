@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>castle.jpeg</file>
+        <file>download (1).jpeg</file>
+        <file>download.png</file>
+        <file>cannon.png</file>
+        <file>result.png</file>
+        <file>result (1).png</file>
+        <file>../../../bullet.png</file>
+        <file>bullet.png</file>
+        <file>Mbullet.png</file>
+    </qresource>
+</RCC>

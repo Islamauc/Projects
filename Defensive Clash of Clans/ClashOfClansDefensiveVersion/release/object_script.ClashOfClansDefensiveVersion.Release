@@ -1,0 +1,15 @@
+release/bullet.o
+release/cannon.o
+release/castle.o
+release/enemytroops.o
+release/fence.o
+release/game.o
+release/main.o
+release/mainwindow.o
+release/timer.o
+release/qrc_gamesources.o
+release/qrc_sources.o
+release/moc_bullet.o
+release/moc_enemytroops.o
+release/moc_mainwindow.o
+release/moc_timer.o

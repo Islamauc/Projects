@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>castle.jpeg</file>
+        <file>Mbullet.png</file>
+    </qresource>
+</RCC>

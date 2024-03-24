@@ -1,0 +1,15 @@
+debug/bullet.o
+debug/cannon.o
+debug/castle.o
+debug/enemytroops.o
+debug/fence.o
+debug/game.o
+debug/main.o
+debug/mainwindow.o
+debug/timer.o
+debug/qrc_gamesources.o
+debug/qrc_sources.o
+debug/moc_bullet.o
+debug/moc_enemytroops.o
+debug/moc_mainwindow.o
+debug/moc_timer.o
